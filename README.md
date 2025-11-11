@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @MolefiSefali
+ - 👋 Hi, I’m @MolefiSefali
 - 👀 I’m interested in programming 
-- 🌱 I’m currently studying computer science and statistics 
+- 🌱 I’m currently studying computer science and Mathematics 
 - 💞️ I’m looking to collaborate on programming projects 
 - 📫 How to reach me 0640396668
 - 😄 Pronouns: he/him
